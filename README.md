@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">* IT Student<br>* FiveM Developer<br>* Web developer</p>
+<ul align="left">
+  <li>IT Student</li>
+  <li>FiveM Developer</li>
+  <li>Web developer</li>
+</ul>
 
 ###
 
