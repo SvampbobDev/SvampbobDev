@@ -45,7 +45,10 @@
 
 ###
 
-<img align="left" alt="Zerio's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=SvampbobDev&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Svampbob" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dark&hide_border=false&username=Svampbob" height="150" alt="languages graph"  />
+</div>
 
 ###
 
