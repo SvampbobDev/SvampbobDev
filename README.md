@@ -45,6 +45,10 @@
 
 ###
 
+<img align="left" alt="Zerio's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Z3rio&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
+
+###
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=S.S&"  />
 </div>
