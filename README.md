@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Eric and I'm a developer from Sweden</h2>
+# Hi 👋! My name is Eric and I'm a developer from Sweden
 
 ###
 
@@ -6,19 +6,17 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+## About Me
 
 ###
 
-<ul align="left">
-  <li>IT Student</li>
-  <li>FiveM Developer</li>
-  <li>Web developer</li>
-</ul>
+  * IT Student
+  * FiveM Developer
+  * Web developer
 
 ###
 
-<h2 align="left">Languages and tools</h2>
+## Languages and tools
 
 ###
 
@@ -26,20 +24,16 @@
 
 ###
 
-<h2 align="left">Socials</h2>
+## Socials
 
 ###
 
-<div align="left">
-  <a href="https://linktr.ee/svampbob_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
-</div>
+<a href="https://linktr.ee/svampbob_" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+</a>
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=S.S&"  />
-</div>
+![views](https://visitor-badge.laobi.icu/badge?page_id=S.S&")
 
 ###
