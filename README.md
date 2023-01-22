@@ -20,7 +20,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=lua,html,css,js,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,html,css,js,vscode,github,discord)](https://skillicons.dev)
 
 ###
 
