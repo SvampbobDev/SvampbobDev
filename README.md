@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Lethality Roleplay<br><br>🌱 I’m currently learning React, Tailwind CSS
+🔭 I’m currently working on [Lethality Roleplay](https://discord.gg/lethalityroleplay)<br><br>🌱 I’m currently learning React, Tailwind CSS
 
 
 ## 🌐 Socials:
