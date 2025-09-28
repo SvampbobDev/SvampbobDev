@@ -22,7 +22,9 @@
     <img src="https://skillicons.dev/icons?i=lua,ts,js,html,css,react,tailwind,vscode,git,github,discord,nodejs,npm,bun,mysql,mongodb,nextjs" />
 </a>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/svampbob"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="svampbob" /></a></p><br><br>
+<h3>Support:</h3>
+<p><a href="https://ko-fi.com/svampbob"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="svampbob" /></a></p>
+
+<p><a href="https://discord.com/users/654967079811678239"><img src="https://lanyard.cnrad.dev/api/654967079811678239" /></a></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=svampbobdev&show_icons=true&theme=dark&locale=en" alt="svampbobdev" /></p>
